@@ -1,1 +1,4 @@
 .vscode
+tutorial-env/lib/python3.8/site-packages
+tutorial-env/bin
+tutorial-env/include
